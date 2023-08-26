@@ -36,5 +36,5 @@ Stay curious, stay tuned, and let the journey unfold!
 ---
 
 **Author:** [Utku Acar]
-**GitHub:** [Your GitHub Profile](https://github.com/hyperionsolitude)
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/utkuacar)
+**GitHub:** [hyperionsolitude](https://github.com/hyperionsolitude)
+**LinkedIn:** [utkuacar](https://www.linkedin.com/in/utkuacar)
