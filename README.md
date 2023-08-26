@@ -55,7 +55,7 @@ Welcome to the exciting realm of data science where we dive into the intricate w
 
 ## Lecture Slides 📚🎓
 
-Explore the fascinating world of data science through our lecture slides. These resources will guide you through essential concepts, techniques, and strategies that empower your data-driven journey.
+Explore the fascinating world of data science through [Orsan Ozener's](https://www.linkedin.com/in/okan-orsan-ozener-29194b26) lecture slides. These resources will guide you through essential concepts, techniques, and strategies that empower your data-driven journey.
 
 - [Introduction to Data Science](./Data_Science.pdf)
 - [Feature Engineering and Selection](./Data_Science.pdf)
