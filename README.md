@@ -6,8 +6,8 @@ Welcome to the Data Science Projects Repository! This repository is your gateway
 
 ## Table of Contents
 
-- [Data Science Adventures with Hyperion Solitude](./HW1/README.md)
-- [Data Science Exploration: Unveiling Housing Prices](./HW2/README.md)
+- [Data Science Adventures with Hyperion Solitude](./HW1/)
+- [Data Science Exploration: Unveiling Housing Prices](./HW2/)
 - [Lecture Slides](./Data_Science.pdf)
 
 ---
